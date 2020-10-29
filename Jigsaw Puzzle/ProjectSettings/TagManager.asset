@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ExtensionPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PuzzleControl
+  - PuzzleScroll
+  - ExtensionPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 435782045
+    locked: 0
+  - name: BoardMap
+    uniqueID: 1367409033
+    locked: 0
+  - name: UI
+    uniqueID: 2141179393
+    locked: 0
+  - name: Gameplay
+    uniqueID: 3708600547
+    locked: 0
+  - name: ScrollPuzzle
+    uniqueID: 872027437
+    locked: 0
+  - name: ExtensionPanel
+    uniqueID: 1739741899
+    locked: 0
+  - name: PreviewImage
+    uniqueID: 1335558421
+    locked: 0
+  - name: TestLayer
+    uniqueID: 2105363969
+    locked: 0

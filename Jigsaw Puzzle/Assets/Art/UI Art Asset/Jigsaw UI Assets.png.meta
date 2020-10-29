@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: e91f1168921679745a02c55b65fcbe1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4630343417059668838
+    second: Jigsaw UI Assets_0
+  - first:
+      213: -7325960682183070135
+    second: Jigsaw UI Assets_1
+  - first:
+      213: -3534929493026072668
+    second: Jigsaw UI Assets_3
+  - first:
+      213: -3256395667051859912
+    second: Jigsaw UI Assets_12
+  - first:
+      213: 6620940365786340785
+    second: Jigsaw UI Assets_19
+  - first:
+      213: 5701409723470248682
+    second: Jigsaw UI Assets_20
+  - first:
+      213: 3642966924509158401
+    second: Jigsaw UI Assets_21
+  - first:
+      213: 8259411836100669765
+    second: Jigsaw UI Assets_22
+  - first:
+      213: -7179061915330911569
+    second: Jigsaw UI Assets_23
+  - first:
+      213: 7493922023275365147
+    second: Jigsaw UI Assets_24
+  - first:
+      213: -3351722377251142314
+    second: Jigsaw UI Assets_25
+  - first:
+      213: -806188740548161167
+    second: Jigsaw UI Assets_26
+  - first:
+      213: 3968520035896638055
+    second: Jigsaw UI Assets_27
+  - first:
+      213: 7721617420415616643
+    second: Jigsaw UI Assets_28
+  - first:
+      213: -2362424720834432753
+    second: Jigsaw UI Assets_29
+  - first:
+      213: -3289743683370542921
+    second: Jigsaw UI Assets_30
+  - first:
+      213: 1381471631646591051
+    second: Jigsaw UI Assets_31
+  - first:
+      213: -5717162919093962040
+    second: Jigsaw UI Assets_32
+  - first:
+      213: 3480262194040207447
+    second: Jigsaw UI Assets_33
+  - first:
+      213: 7379501244360845769
+    second: Jigsaw UI Assets_42
+  - first:
+      213: 4113801777170783674
+    second: Jigsaw UI Assets_43
+  - first:
+      213: 717394674458998095
+    second: Jigsaw UI Assets_44
+  - first:
+      213: -6446724400027760716
+    second: Jigsaw UI Assets_45
+  - first:
+      213: 4116694346548988785
+    second: Jigsaw UI Assets_46
+  - first:
+      213: -7346474585907365220
+    second: Jigsaw UI Assets_47
+  - first:
+      213: -8632710650574050336
+    second: Jigsaw UI Assets_48
+  - first:
+      213: -554173179181120628
+    second: Jigsaw UI Assets_49
+  - first:
+      213: 1394307952355668248
+    second: Jigsaw UI Assets_50
+  - first:
+      213: -1970471547924024729
+    second: Jigsaw UI Assets_61
+  - first:
+      213: 6946103526126486861
+    second: Jigsaw UI Assets_65
+  - first:
+      213: -1494937295152642081
+    second: Jigsaw UI Assets_74
+  - first:
+      213: -8285542508506839052
+    second: Jigsaw UI Assets_75
+  - first:
+      213: 3781867643586588577
+    second: Jigsaw UI Assets_2
+  - first:
+      213: -6970407644798379015
+    second: Jigsaw UI Assets_4
+  - first:
+      213: 6808209894186976012
+    second: Jigsaw UI Assets_5
+  - first:
+      213: 2666006446756586327
+    second: Jigsaw UI Assets_6
+  - first:
+      213: -8982983813651085488
+    second: Jigsaw UI Assets_7
+  - first:
+      213: 4558990444325687328
+    second: Jigsaw UI Assets_8
+  - first:
+      213: -4574726510984567669
+    second: Jigsaw UI Assets_9
+  - first:
+      213: -4026206216426974242
+    second: Jigsaw UI Assets_10
+  - first:
+      213: -6544429627061476929
+    second: Jigsaw UI Assets_11
+  - first:
+      213: 2899125293133189613
+    second: Jigsaw UI Assets_13
+  - first:
+      213: -6518318669878061099
+    second: Jigsaw UI Assets_14
+  - first:
+      213: -7263793409299684036
+    second: Jigsaw UI Assets_15
+  - first:
+      213: 2169369986118495577
+    second: Jigsaw UI Assets_16
+  - first:
+      213: 33851823116613517
+    second: Jigsaw UI Assets_17
+  - first:
+      213: 7180478335138550398
+    second: Jigsaw UI Assets_18
+  - first:
+      213: -2890111803703546659
+    second: Jigsaw UI Assets_34
+  - first:
+      213: -7524045691471863805
+    second: Jigsaw UI Assets_35
+  - first:
+      213: -6447559097186967965
+    second: Jigsaw UI Assets_36
+  - first:
+      213: -8281098656843255814
+    second: Jigsaw UI Assets_37
+  - first:
+      213: -4837713575287824332
+    second: Jigsaw UI Assets_38
+  - first:
+      213: -4248997900138158607
+    second: Jigsaw UI Assets_39
+  - first:
+      213: 3733851954312161684
+    second: Jigsaw UI Assets_40
+  - first:
+      213: 7638063740088285432
+    second: Jigsaw UI Assets_41
+  - first:
+      213: 7595522446399187033
+    second: Jigsaw UI Assets_51
+  - first:
+      213: 1461537591830335416
+    second: Jigsaw UI Assets_52
+  - first:
+      213: -1175270581933932049
+    second: Jigsaw UI Assets_53
+  - first:
+      213: 5728644618618574153
+    second: Jigsaw UI Assets_54
+  - first:
+      213: 1974815362282972680
+    second: Jigsaw UI Assets_55
+  - first:
+      213: 939833588428208354
+    second: Jigsaw UI Assets_56
+  - first:
+      213: 4078985750388332833
+    second: Jigsaw UI Assets_57
+  - first:
+      213: 3769356926876432909
+    second: Jigsaw UI Assets_58
+  - first:
+      213: 3842538004810557101
+    second: Jigsaw UI Assets_59
+  - first:
+      213: -682942545926402694
+    second: Jigsaw UI Assets_60
+  - first:
+      213: 2219703090967903249
+    second: Jigsaw UI Assets_62
+  - first:
+      213: -1606991294581678135
+    second: Jigsaw UI Assets_63
+  - first:
+      213: 1984674976874302474
+    second: Jigsaw UI Assets_64
+  - first:
+      213: -1593284879363779783
+    second: Jigsaw UI Assets_66
+  - first:
+      213: 185399497285891669
+    second: Jigsaw UI Assets_67
+  - first:
+      213: 1803395447449661296
+    second: Jigsaw UI Assets_68
+  - first:
+      213: 8197976014247867538
+    second: Jigsaw UI Assets_69
+  - first:
+      213: 5632879453629593329
+    second: Jigsaw UI Assets_70
+  - first:
+      213: 4066763474825826676
+    second: Jigsaw UI Assets_71
+  - first:
+      213: -2741007365840207500
+    second: Jigsaw UI Assets_72
+  - first:
+      213: 608643451084312461
+    second: Jigsaw UI Assets_73
+  - first:
+      213: -7343637746643394877
+    second: Jigsaw UI Assets_76
+  - first:
+      213: -8948368641629392798
+    second: Jigsaw UI Assets_77
+  - first:
+      213: -5257164366144610205
+    second: Jigsaw UI Assets_78
+  - first:
+      213: 2440498116579374077
+    second: Jigsaw UI Assets_79
+  - first:
+      213: -7187830847378066407
+    second: Jigsaw UI Assets_80
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1895
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f72b8d29202f3045a25c171e737ab72
+      internalID: -4630343417059668838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1889
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed61ad896cda124682825e936146ab4
+      internalID: -3534929493026072668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_5
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1969
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4162dc0ee18d84a8114c8fffce93f6
+      internalID: 6808209894186976012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_12
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 548
+        width: 916
+        height: 1485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 205, y: 300, z: 203, w: 161}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc37011f84b5364dbb8037323bab285
+      internalID: -3256395667051859912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1808
+        width: 166
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe7499fe0f8c2f4d8c652fa07bfe17f
+      internalID: 7180478335138550398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1816
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec758d3118211418c8c58573bcf4a0
+      internalID: 6620940365786340785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1800
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a5d2f3ec78c64eb10a7817d6c475c
+      internalID: 5701409723470248682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1794
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485f5ff171cad54d942ca8d0a329d01
+      internalID: 3642966924509158401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1804
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95379b9ee11afb644ba5492fe708f9b0
+      internalID: 8259411836100669765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1592
+        width: 207
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbcb2cecd67144e807601ccdf75d71
+      internalID: -7179061915330911569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1591
+        width: 204
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861062755bb6de4b8564ffc07ad6164
+      internalID: 7493922023275365147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1628
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc0a64222cb8bc4490a3a6be9d0da27
+      internalID: -3351722377251142314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1628
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c67bd61bd3ce746ac21269ee9834cd
+      internalID: -806188740548161167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1628
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fd6e96c0d449c4f8345be2f13b5b54
+      internalID: 3968520035896638055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1494
+        width: 429
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982cccb5859d550459f0a494aa409446
+      internalID: 1381471631646591051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_32
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1481
+        width: 347
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3788219a16b3e41499c45d89c46a7337
+      internalID: -5717162919093962040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 815
+        width: 944
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b8afc19ef9494686ee17a4163d1a7
+      internalID: 3480262194040207447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 280
+        width: 489
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320ff069b13dcf439fc678176ae7bc8
+      internalID: -2890111803703546659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 718
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257d4e91c8ae43429851d00bdce12ff
+      internalID: -7524045691471863805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_44
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 577
+        width: 374
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 44, y: 27, z: 55, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52412ce4487a74d81abdcc6039eb59
+      internalID: 717394674458998095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 435
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6b592bfbd2c3d418eab1346c298c89
+      internalID: -6446724400027760716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 423
+        width: 273
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fa95469ccbd79459f03c2a6c3465fb
+      internalID: 4116694346548988785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_47
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 484
+        width: 841
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5cf7b2f557de544ac95fbe11652316
+      internalID: -7346474585907365220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_48
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 325
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347f461ffa4d3284b8acbadb6944b431
+      internalID: -8632710650574050336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_50
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 309
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09847124297a5b0488fdf5aaa0f4b51b
+      internalID: 1394307952355668248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_51
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 346
+        width: 1013
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c627e0b93a4984da839b22038d9298
+      internalID: 7595522446399187033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_55
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 284
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9549dad6e20ceb24fba552e20e4c0525
+      internalID: 1974815362282972680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 57
+        width: 1440
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149079df359ec30439c94c89c6855a3c
+      internalID: -7187830847378066407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1914
+        width: 319
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09529a92e144f9b47a047500afa8df99
+      internalID: -7325960682183070135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1927
+        width: 232
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812108f5c4db2eb458503318702fa786
+      internalID: 3781867643586588577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 724
+        width: 184
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eeb64bf0290bf46ae6ccfed2268abf
+      internalID: -6970407644798379015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 724
+        width: 182
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de5c960844ee9449c82bec56c0e260
+      internalID: 2666006446756586327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_7
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 280
+        width: 358
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb3770d9a073c458a751153de41ec3
+      internalID: -8982983813651085488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_8
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 283
+        width: 296
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c152925d4f235048b459479d10809c1
+      internalID: 4558990444325687328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_9
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 282
+        width: 320
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f378bfb056f64bbaa30f112526815
+      internalID: -4574726510984567669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 444
+        width: 227
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d0cfaf402901b41869df8e2bcab73b
+      internalID: -4026206216426974242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_11
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1627
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dddb985519a744592c62de078db505
+      internalID: -6544429627061476929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1873
+        width: 305
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ab7e531f5577e4fb884a7df92a4f8c
+      internalID: 2899125293133189613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_14
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1813
+        width: 309
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe22c22eb4babb4692eeb61ecd74e7f
+      internalID: -6518318669878061099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1751
+        width: 307
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e24ecfe34221342bedfd916fa27579
+      internalID: -7263793409299684036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_16
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 590
+        width: 125
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825c2b66c9afeb14ab1ff2ab4976cea4
+      internalID: 2169369986118495577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_17
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 150
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad431c2cc0d4164882324ddd26afd53
+      internalID: 33851823116613517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jigsaw UI Assets_28
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 150
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce0c5294f2ff641be76b24d0bf95fa
+      internalID: 7721617420415616643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff02848eb52f77945879f196b6a2e458
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
